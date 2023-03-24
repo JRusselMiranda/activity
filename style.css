@@ -76,8 +76,8 @@ a:hover{
 
 @font-face {
     font-family: gas-alt;
-    src: url(Gasalt-Regular.ttf);
-}
+    src: url(/font/Gasalt-Regular.ttf);
+} 
 
 .name{
     font-family: gas-alt;
